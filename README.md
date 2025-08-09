@@ -7,3 +7,10 @@
 The University of Toronto Machine Intelligence Student Team (UTMIST)'s AI² is a reinforcement learning (RL) tournament where students build AI agents to compete in a smash-bros style platformer.
 
 ## Gameplay
+### Screenshots
+
+![Gameplay Screenshot 2](gameplay/screenshot2.png)
+![Gameplay Screenshot 1](gameplay/screenshot1.png)
+
+### Videos
+See videos in the `gameplay` directory.
