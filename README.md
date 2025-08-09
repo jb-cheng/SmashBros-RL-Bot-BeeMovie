@@ -1,5 +1,5 @@
 # Team [INSERT BEE MOVIE HERE] 🐝
-🏆 Won the "Darwinian Genius" award for most creative team/agent.
+🏆 Won the "Darwinian Genius" award for most creative agent.
 
 <b> See the full technical writeup in [BeeMovieWriteup.pdf](https://github.com/jb-cheng/SmashBros-RL-Bot-BeeMovie/blob/main/BeeMovieWriteup.pdf) </b>
 
