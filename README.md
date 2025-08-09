@@ -10,7 +10,7 @@ The University of Toronto Machine Intelligence Student Team (UTMIST)'s AI² is a
 ### Screenshots
 
 ![Gameplay Screenshot 2](gameplay/screenshot2.png)
-![Gameplay Screenshot 1](gameplay/screenshot1.png)
+![Gameplay Screenshot 1](gameplay/screenshot1.PNG)
 
 ### Videos
 See videos in the `gameplay` directory.
