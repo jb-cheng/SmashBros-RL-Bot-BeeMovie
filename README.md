@@ -14,3 +14,11 @@ The University of Toronto Machine Intelligence Student Team (UTMIST)'s AI² is a
 
 ### Videos
 See videos in the `gameplay` directory.
+
+## File Structure
+- `RPPO_versions/` contains several versions of the RPPO based agent.
+- `AI2_Env.ipynb` contains the official environment for AI².
+- `Based_Agent.ipynb` contains the code for the Based agent (if-else agent).
+- `Demo_Environment.ipynb` contains a tutorial of SB3 and gymnasium.
+- `RPPO_Agent.ipynb` contains the code for the Recurrent Proximal Policy Optimization agent.
+- `Technical_Guide.ipynb` contains documentation on the official API of AI².
